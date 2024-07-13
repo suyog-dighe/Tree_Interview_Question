@@ -1,4 +1,8 @@
 package TreeQuestion_gfg;
+// GFG : https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1
+// Question : Maximum sum of Non-adjacent nodes
+
+
 import java.util.*;
 public class MaximumSumof_Non_adjacent_nodes {
    public static int getMaxSum(Node root){
